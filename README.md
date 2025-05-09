@@ -44,6 +44,8 @@ Caso nenhum contato corresponda ao filtro, a mensagem **"Nenhum contato encontra
 
   
 📸 Demonstração
+
+
 ![contatos](https://github.com/user-attachments/assets/b365a2db-76ae-4c21-b462-98e944700f97)
 
 
